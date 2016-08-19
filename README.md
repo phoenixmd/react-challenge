@@ -1,3 +1,13 @@
+# MediaBucket React Challenge
+
+## Instructions
+- Fork this repository
+- Install the dependencies
+
+## Goal
+You goal is to implement a table which will constantly show 20 rows but allows the user to scroll seemlessly to discover next rows (infinite scrolling). Usage of DOM recycling is highly recommended. API calls should be limited to their minimum. You can use a simple server/fixtures to serve the data.
+
+
 # React Redux Starter Kit
 
 [![Join the chat at https://gitter.im/davezuko/react-redux-starter-kit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/davezuko/react-redux-starter-kit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
