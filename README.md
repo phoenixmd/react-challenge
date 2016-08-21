@@ -5,7 +5,7 @@
 - Install the dependencies
 
 ## Goal
-You goal is to implement a table which will constantly show 20 rows but allows the user to scroll seemlessly to discover next rows (infinite scrolling). Usage of DOM recycling is highly recommended. API calls should be limited to their minimum. You can use a simple server/fixtures to serve the data.
+Using Facebook's fxed-data-table plugin, implement an infinite scroll table.
 
 
 # React Redux Starter Kit
